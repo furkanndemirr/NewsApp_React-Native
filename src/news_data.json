@@ -1,0 +1,37 @@
+[
+    {
+      "u_id": 0,
+      "author": "Omkar Godbole",
+      "title": "Bulls Exit BitMEX Bitcoin Futures Market",
+      "description": "Since the announcement from U.S. regulators, BitMEX has witnessed an outflow of more than 40,000 bitcoins, currently worth more than $422 million.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_960_720.jpg"
+    },
+    {
+      "u_id": 1,
+      "author": "Benjamin Pirus",
+      "title": "Coinbase customers can now dodge a bank",
+      "description": "New update from Coinbase quickens the transmutation of crypto into fiat. Coinbase has unveiled a faster way for its customers to move digital currencies out of crypto and into their bank accounts.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/04/23/21/59/tree-736877_960_720.jpg"
+    },
+    {
+      "u_id": 2,
+      "author": "Malwarebytes Labs",
+      "title": "VideoBytes: Ransomware gets wasted!",
+      "description": "On today's VideoBytes, we look at how ransomware is on the rise, attacking corporations with malware that not only encrypts files, but also steals it.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2013/03/02/02/41/alley-89197_960_720.jpg"
+    },
+    {
+      "u_id": 3,
+      "author": "Daniel Sparks",
+      "title": "Why Tesla Stock Fell Sharply Friday Morning - Motley Fool",
+      "description": "Shares are down despite Tesla reporting record third-quarter deliveries. Shares of electric-car maker Tesla(NASDAQ:TSLA) fell Friday morning, declining 5% a few minutes into market open.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2022/10/04/14/27/cat-7498364_960_720.jpg"
+    },
+    {
+      "u_id": 4,
+      "author": "Jessica Bursztynsky",
+      "title": "Twilio hits new 52-week high as stock",
+      "description": "Shares of Twilio extended its gains into Friday, reaching a 52-week high, after the company said in a filing that it expects better-than-expected third-quarter revenue.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2023/03/10/16/14/swan-7842666_960_720.jpg"
+    }
+  ]
