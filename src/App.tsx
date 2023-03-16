@@ -33,6 +33,7 @@ const styles = StyleSheet.create({
   },
   header:{
     fontWeight:'bold',
+    fontStyle:'italic',
     fontSize:25,
     color:'black',
     textAlign:'center'
