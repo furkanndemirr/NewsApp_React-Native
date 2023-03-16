@@ -9,7 +9,7 @@ function App() {
     <SafeAreaView style={styles.container}>
       <View>
         <Text style={styles.header}>
-          Haber App
+          Haber Apps
         </Text>
         
         <FlatList
